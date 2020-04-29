@@ -40,7 +40,6 @@ export default class Table extends Component{
                 {
                     Header: "Date",
                     accessor: "createdAt",
-                    sortable: false,
                     filterable: false
                 },
             ]
